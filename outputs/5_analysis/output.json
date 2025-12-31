@@ -2,11 +2,11 @@
   {
     "sentiment": "Neutral",
     "topics": [
-      "Tiger Characteristics",
-      "Habitat and Distribution",
+      "Introduction to Tigers",
       "Scientific Classification",
-      "Ecological Role",
-      "Cultural Significance"
+      "Physical Characteristics",
+      "Habitat and Distribution",
+      "Subspecies of Tigers"
     ]
   },
   {
@@ -24,7 +24,7 @@
     "sentiment": "Neutral",
     "topics": [
       "Tiger Conservation",
-      "Threats to Tigers",
+      "Threats to Tiger Population",
       "Wildlife Preservation",
       "Ecological Balance",
       "Endangered Species"

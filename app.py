@@ -38,10 +38,6 @@ with st.sidebar:
     st.header("📂 Upload Document")
     uploaded_file = st.file_uploader("Pilih file PDF", type=["pdf"], key="uploader")
 
-st.write("KEY SESSION:")
-st.write(list(st.session_state.keys()))
-
-
 current_file = uploaded_file.name if uploaded_file else None
 if current_file != st.session_state["last_file"]:
     reset_state(current_file)
@@ -93,16 +89,6 @@ if st.session_state["summary_done"]:
                 st.session_state["chunks"]
             )
 
-# ======================
-# Sentiment Output (AREA TERPISAH)
-# ======================
-# if st.session_state["analysis"]:
-#     st.subheader("📈 Sentiment & Topic Analysis")
-#     st.text_area(
-#         label="Sentiment Analysis Result",
-#         value=st.session_state["analysis"],
-#         height=250,
-#     )
 if st.session_state["analysis"]:
     analysis = st.session_state["analysis"]
 
