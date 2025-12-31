@@ -1,0 +1,11 @@
+Summarize the following text into concise bullet points.
+
+Rules:
+- Use plain bullet points only (start each line with "-").
+- Do NOT add titles, headings, or introductory phrases.
+- Do NOT write words like "Summary", "Conclusion", or similar.
+- Each bullet should be short and factual.
+- Maximum 5 bullets total.
+- Each bullet must be no more than 20 words.
+
+Text:

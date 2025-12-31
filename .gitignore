@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env          # ignore file env asli
+.env.local    # ignore file env lokal lainnya
+
+# Streamlit cache
+.streamlit/
+
+# Uploaded files / data
+*.pdf
+uploads/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

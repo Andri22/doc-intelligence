@@ -1,0 +1,10 @@
+Summarize the following text in a clear, structured way.
+
+Rules:
+- Do NOT include titles, headings, or phrases like "Summary".
+- Write in short paragraphs or bullet points.
+- Focus on key ideas, arguments, and important details.
+- Avoid repetition and filler words.
+- Target length: 120–180 words total.
+
+Text:

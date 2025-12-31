@@ -1,0 +1,33 @@
+[
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Tiger Characteristics",
+      "Habitat and Distribution",
+      "Scientific Classification",
+      "Ecological Role",
+      "Cultural Significance"
+    ]
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Tiger Species",
+      "Tiger Behavior",
+      "Tiger Diet",
+      "Tiger Communication",
+      "Tiger Reproduction",
+      "Tiger Life Cycle"
+    ]
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Tiger Conservation",
+      "Threats to Tigers",
+      "Wildlife Preservation",
+      "Ecological Balance",
+      "Endangered Species"
+    ]
+  }
+]

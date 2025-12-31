@@ -1,0 +1,10 @@
+Summarize the following text for an executive audience.
+
+Rules:
+- Do NOT add headings or introductory phrases.
+- Focus on key takeaways, implications, and conclusions.
+- Write in complete, professional sentences.
+- Avoid technical details unless critical.
+- Target length: 80–120 words.
+
+Text:
