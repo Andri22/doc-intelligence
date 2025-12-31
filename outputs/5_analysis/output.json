@@ -3,31 +3,32 @@
     "sentiment": "Neutral",
     "topics": [
       "Introduction to Tigers",
-      "Scientific Classification",
       "Physical Characteristics",
+      "Scientific Classification",
       "Habitat and Distribution",
-      "Subspecies of Tigers"
+      "Subspecies and Adaptation"
     ]
   },
   {
     "sentiment": "Neutral",
     "topics": [
       "Tiger Species",
-      "Tiger Behavior",
-      "Tiger Diet",
-      "Tiger Communication",
-      "Tiger Reproduction",
-      "Tiger Life Cycle"
+      "Behavior and Social Structure",
+      "Diet and Hunting Habits",
+      "Communication",
+      "Reproduction and Life Cycle"
     ]
   },
   {
     "sentiment": "Neutral",
     "topics": [
       "Tiger Conservation",
-      "Threats to Tiger Population",
+      "Habitat Destruction",
+      "Poaching",
       "Wildlife Preservation",
       "Ecological Balance",
-      "Endangered Species"
+      "Endangered Species",
+      "Conservation Efforts"
     ]
   }
 ]

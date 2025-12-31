@@ -1,5 +1,5 @@
-- Tigers are largest of big cats.
-- They weigh 180-320 kilograms.
-- Tigers are apex predators.
-- They have unique stripes like fingerprints.
-- Tigers live 10-15 years in wild.
+- Tigers are apex predators and largest big cats.
+- They have unique stripes like human fingerprints.
+- Tigers weigh 100-320 kilograms and reach 3.3 meters long.
+- They are found in Asia, in forests and grasslands.
+- Tigers live 10-15 years in the wild, 20 in captivity.

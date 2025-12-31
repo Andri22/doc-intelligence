@@ -6,8 +6,7 @@
 
 > **Doc Intelligence** is a Streamlit application that allows you to **analyze, summarize, and understand PDF documents instantly with AI**. It features a modular pipeline for text extraction, cleaning, chunking, summarization, and sentiment/topic analysis.  
 
-![App Demo](demo_social.png)
-*(Note: Upload a screenshot named `demo_social.png` to your repository root)*
+![App Demo](app-demo.png)
 
 ## ⚡ Key Features
 - ⚡ **Flexible Summary Options**: Generate summaries in bullet, detailed, or executive style.  
@@ -80,7 +79,8 @@ doc-intelligence-app/
 ├── requirements.txt       
 ├── README.md              
 ├── .gitignore             
-├── .env.example           
+├── .env.example 
+├── .env          
 
 ├── core/                   
 │   ├── __init__.py
