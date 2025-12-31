@@ -5,7 +5,7 @@ from core.chunker import chunk_text
 from core.summarizer import summary_text
 from core.analyzer import analyze_sentiment_topics
 
-data = "data.pdf"
+data = "your_file_pdf"
 
 
 def main():
